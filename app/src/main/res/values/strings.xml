@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations083</string>
+    <string name="affirmation1">imag_1</string>
+    <string name="affirmation2">imag_2</string>
+    <string name="affirmation3">imag_3</string>
+    <string name="affirmation4">imag_4</string>
+    <string name="affirmation5">imag_5</string>
+    <string name="affirmation6">imag_6</string>
+    <string name="affirmation7">imag_7</string>
+    <string name="affirmation8">imag_8</string>
+    <string name="affirmation9">imag_9</string>
+    <string name="affirmation10">imag_10</string>
+</resources>
