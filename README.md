@@ -1,3 +1,3 @@
 # Affirmations083_
  affirmation
-<img src/affirmation.PNG>
+<img src=/affirmation.PNG>
